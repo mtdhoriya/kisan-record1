@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Record",
+  "description": "Smart Farming, Digital Records & Agricultural Profit Management platform tailored for farmers to track crops, weather, market prices, expenses, and government schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
